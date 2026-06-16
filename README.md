@@ -1,154 +1,295 @@
-📊 Business Insights 360 | End-to-End Power BI Analytics Solution
-📌 Project Overview
+# 📊 Business Insights 360 | Power BI End-to-End Business Analytics Solution
 
-Business Insights 360 is a comprehensive Power BI project developed to provide a unified view of business performance across Finance, Sales, Marketing, Supply Chain, and Executive functions.
+## 📌 Overview
 
-The dashboard enables stakeholders to monitor key performance indicators, evaluate profitability, optimize forecasting, analyze customer and product performance, and make data-driven business decisions through a centralized reporting platform.
+Business Insights 360 is a comprehensive Power BI solution designed to provide a 360-degree view of business performance across Finance, Sales, Marketing, Supply Chain, and Executive functions.
 
-🎯 Business Objective
+The project enables stakeholders to monitor key business metrics, analyze profitability, track forecast accuracy, evaluate customer and product performance, and make data-driven strategic decisions through a unified analytics platform.
 
-Large organizations often rely on multiple disconnected reports, making it difficult to gain a complete understanding of business performance.
+---
 
-This solution was developed to:
+## 🎯 Business Objective
 
-Consolidate business reporting into a single platform.
-Improve visibility across departments.
-Support strategic decision-making.
-Track financial and operational performance.
-Monitor customer, product, and market trends.
-🛠️ Tech Stack
-Power BI
-SQL
-Power Query
-DAX
-Data Modeling (Star Schema)
-Excel
-📂 Dashboard Views
-💰 Finance View
+Organizations often struggle with siloed reporting systems, making it difficult for decision-makers to obtain a holistic view of business performance.
 
-The Finance View helps stakeholders analyze the company's financial health and profitability.
+The objective of this project is to:
 
-Key Metrics
-Gross Sales
-Net Sales
-Gross Margin
-Gross Margin %
-Net Profit
-Net Profit %
-Business Value
-Tracks overall profitability.
-Identifies high-performing and low-performing regions.
-Supports budgeting and financial planning.
-Enables comparison against targets and benchmarks.
-📈 Sales View
+* Centralize business reporting.
+* Improve decision-making through interactive dashboards.
+* Monitor profitability across products, customers, and regions.
+* Analyze sales and marketing performance.
+* Evaluate supply chain forecasting efficiency.
+* Provide executive-level insights in a single platform.
 
-The Sales View focuses on customer performance and revenue generation.
+---
 
-Key Metrics
-Net Sales
-Gross Margin
-Customer Profitability
-Revenue Growth
-Sales Contribution
-Business Value
-Identifies top customers driving revenue.
-Evaluates customer profitability.
-Supports customer retention strategies.
-Helps sales teams prioritize high-value accounts.
-📢 Marketing View
+## 🛠️ Tech Stack
 
-The Marketing View analyzes product performance and market effectiveness.
+* Power BI
+* DAX
+* Power Query
+* SQL
+* Data Modeling (Star Schema)
+* Business Intelligence
 
-Key Metrics
-Product Revenue
-Gross Margin
-Net Profit
-Product Profitability
-Product Growth
-Business Value
-Identifies top-performing products.
-Evaluates product profitability.
-Supports pricing and promotional decisions.
-Helps marketing teams focus on high-growth categories.
-🚚 Supply Chain View
+---
 
-The Supply Chain View measures forecasting performance and inventory risks.
+## 📊 Dashboard Views
 
-Key Metrics
-Forecast Accuracy
-Net Error
-Absolute Error
-Inventory Risk
-Business Value
-Improves demand forecasting.
-Reduces stock shortages.
-Prevents excess inventory.
-Optimizes inventory planning and procurement.
-Risk Categories
-OOS (Out of Stock) → Demand exceeds available inventory.
-EI (Excess Inventory) → Inventory exceeds expected demand.
-👔 Executive View
+### 💰 Finance View
 
-The Executive View provides a high-level summary of business performance for leadership teams.
+Provides detailed Profit & Loss analysis across:
 
-Key Metrics
-Net Sales
-Gross Margin %
-Net Profit %
-Forecast Accuracy
-Market Share
-Business Value
-Provides a 360° business overview.
-Enables quick decision-making.
-Highlights key opportunities and risks.
-Consolidates insights from all departments into one dashboard.
-📊 Key Insights
-Financial Performance
-Net Sales reached $3.74 Billion.
-Gross Margin stood at 38.08%.
-Net Profit was -13.98%.
-APAC emerged as the highest revenue-generating region.
-Customer Insights
-Major customers contributed significantly to overall revenue.
-Profitability varied across customer segments.
-Customer-level analysis helped identify high-value accounts.
-Product Insights
-Notebook products generated the highest revenue.
-Peripherals and Desktop segments were strong contributors.
-Product profitability varied across categories.
-Supply Chain Insights
-Forecast Accuracy exceeded 81%.
-Several categories showed risks of excess inventory and stock shortages.
-Forecast monitoring improved inventory management.
-Executive Insights
-Retailers remained the largest revenue channel.
-APAC was the strongest-performing region.
-Market share trends highlighted competitive positioning.
-🎯 Business Impact
+* Customers
+* Products
+* Markets
+* Regions
+* Fiscal Years
 
-This solution helps organizations:
+#### Key Metrics
 
-Improve profitability analysis.
-Monitor sales performance.
-Optimize inventory management.
-Increase forecasting accuracy.
-Identify growth opportunities.
-Enable data-driven strategic planning.
-📚 Skills Demonstrated
-Power BI Dashboard Development
-Data Modeling
-DAX Calculations
-SQL Analysis
-Financial Analytics
-Sales Analytics
-Marketing Analytics
-Supply Chain Analytics
-Executive Reporting
-Business Storytelling
-👤 Author
+* Gross Sales
+* Net Sales
+* Gross Margin
+* Gross Margin %
+* Net Profit
+* Net Profit %
 
-Gagandeep Kaur Bhatti
+#### 2022 Snapshot
 
-Aspiring Data Analyst | Power BI | SQL | Excel | Business Intelligence
+* Net Sales: $3.74 Billion
+* Gross Margin: $1.42 Billion
+* GM%: 38.08%
+* Net Profit: -$522.42 Million
 
-🔗 LinkedIn: Add your LinkedIn profile
+---
+
+### 📈 Sales View
+
+Analyzes customer performance and revenue generation.
+
+#### Key Insights
+
+* Customer-wise Net Sales Analysis
+* Gross Margin Analysis
+* Profitability Matrix
+* Growth Matrix
+* Regional Performance
+
+#### Top Revenue Region
+
+* APAC contributed over 50% of total Net Sales.
+
+#### Major Revenue Segments
+
+* Notebook
+* Peripherals
+* Desktop
+
+---
+
+### 📢 Marketing View
+
+Evaluates product performance and profitability.
+
+#### Key Metrics
+
+* Net Sales
+* Gross Margin
+* Net Profit
+* Product Profitability
+
+#### Top Performing Segment
+
+* Notebook Segment generated the highest revenue contribution.
+
+#### Product Analysis
+
+* Revenue contribution by category.
+* Gross Margin performance by product.
+* Product profitability comparison.
+
+---
+
+### 🚚 Supply Chain View
+
+Measures forecasting effectiveness and inventory risk.
+
+#### Key Metrics
+
+* Forecast Accuracy
+* Net Error
+* Absolute Error
+* Risk Analysis
+
+#### Supply Chain Performance
+
+* Forecast Accuracy: 81.17%
+* Absolute Error: 6.9 Million
+* Net Error: -3.47 Million
+
+#### Risk Categories
+
+* OOS (Out of Stock Risk)
+* EI (Excess Inventory Risk)
+
+This view helps identify products and customers that are either overstocked or understocked.
+
+---
+
+### 👔 Executive View
+
+Provides a consolidated overview of business performance.
+
+#### Executive KPIs
+
+* Net Sales
+* Gross Margin %
+* Net Profit %
+* Forecast Accuracy
+* Market Share
+
+#### Revenue by Division
+
+* N&S Division: 61.33%
+* P&A Division: 36.18%
+* PC Division: 2.49%
+
+#### Revenue by Channel
+
+* Retailer Channel: 72.97%
+* Direct Channel: 16.36%
+* Distributor Channel: 10.67%
+
+---
+
+## 🌍 Regional Performance Analysis
+
+### Top Regions by Revenue
+
+| Region | Net Sales |
+| ------ | --------- |
+| APAC   | $1.92B    |
+| NA     | $1.02B    |
+| EU     | $775M     |
+| LATAM  | $15M      |
+
+### Key Findings
+
+* APAC is the largest revenue contributor.
+* North America delivers the highest Gross Margin %.
+* LATAM contributes the lowest revenue share.
+
+---
+
+## 📦 Product Performance Analysis
+
+### Top Revenue Segment
+
+* Notebook: $1.58B
+
+### Other Major Segments
+
+* Peripherals: $897M
+* Desktop: $711M
+* Accessories: $454M
+
+### Key Insight
+
+Notebook products generate the largest share of business revenue and profitability.
+
+---
+
+## 👥 Customer Performance Analysis
+
+Key customer performance metrics analyzed:
+
+* Net Sales
+* Gross Margin
+* Revenue Contribution
+* Profitability
+
+### Example High-Performing Customers
+
+* Amazon
+* Atliq Exclusive
+* Atliq E-Store
+* Flipkart
+* Sage
+
+---
+
+## 📉 Forecast Accuracy Analysis
+
+The Supply Chain dashboard evaluates forecast performance across product categories.
+
+### Best Forecast Accuracy
+
+* Networking: 93.06%
+
+### Areas Requiring Improvement
+
+* Peripherals
+* Storage
+
+These categories showed lower forecast accuracy and higher inventory risks.
+
+---
+
+## 📊 Key Business Insights
+
+✅ APAC contributes the highest revenue share.
+
+✅ Notebook products are the strongest-performing segment.
+
+✅ Retailers remain the primary sales channel.
+
+✅ Forecast accuracy exceeds 81%.
+
+✅ North America delivers the highest Gross Margin percentage.
+
+✅ Supply Chain analytics helps proactively manage inventory risk.
+
+✅ Executive dashboard provides a unified business performance view.
+
+---
+
+## 🎯 Business Impact
+
+This solution enables management to:
+
+* Monitor company-wide performance in real time.
+* Improve profitability analysis.
+* Optimize inventory planning.
+* Enhance forecasting accuracy.
+* Identify high-performing customers and products.
+* Support strategic decision-making through data-driven insights.
+
+---
+
+## 📚 Skills Demonstrated
+
+* Power BI Dashboard Development
+* DAX Calculations
+* Data Modeling
+* Business Analytics
+* Financial Analysis
+* Sales Analytics
+* Supply Chain Analytics
+* Executive Reporting
+* KPI Design
+* Data Visualization
+
+---
+
+## 👤 Author
+
+**Gagandeep Kaur Bhatti**
+
+Aspiring Data Analyst | Power BI | SQL | Excel
+
+🔗 LinkedIn: www.linkedin.com/in/gagandeepkaurbhatti
+
+
+
+⭐ If you found this project useful, feel free to star the repository and connect with me on LinkedIn.
